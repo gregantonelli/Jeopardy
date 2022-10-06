@@ -1,7 +1,6 @@
 library(rvest)
 library(tidyverse)
 library(data.table)
-library(tidyverse)
 library(lubridate)
 
 gather_data <- function(x){
